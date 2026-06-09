@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_legal_sections",
+  "info": {
+    "displayName": "Legal Section",
+    "icon": "file",
+    "description": "A heading + body pair for legal pages"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "body": {
+      "type": "text"
+    }
+  }
+}

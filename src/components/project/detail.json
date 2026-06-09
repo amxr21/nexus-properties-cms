@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_project_details",
+  "info": {
+    "displayName": "Detail",
+    "icon": "layer",
+    "description": "Project detail specifications"
+  },
+  "options": {},
+  "attributes": {
+    "location": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "units": {
+      "type": "string"
+    },
+    "size": {
+      "type": "string"
+    },
+    "floors": {
+      "type": "string"
+    },
+    "residenceFeatures": {
+      "type": "json"
+    },
+    "buildingAmenities": {
+      "type": "json"
+    },
+    "locationHighlights": {
+      "type": "json"
+    }
+  }
+}
